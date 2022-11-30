@@ -1,0 +1,8 @@
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\obj\Debug\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\obj\Debug\Degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\badbo\source\repos\Patika.dev\Degiskenler\obj\Debug\Degiskenler.pdb
